@@ -1,0 +1,7 @@
+<div class="jumbotron">
+  <h2><%= node() %></h2>
+  <h2>Who’s Online</h2>
+  <ul id="user-list" class="list-unstyled">
+    <li>Loading online users...</li>
+  </ul>
+</div>
